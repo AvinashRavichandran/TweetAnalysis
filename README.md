@@ -34,7 +34,7 @@ accessTokenSecret
 Setup a scala project in IDE and create the following scala code that prints out live tweets as they stream using Spark Streaming.
 
 ```
-package com.hmovielabs.sparkstreaming
+package com.avinash.sparkstreaming
 
 import org.apache.spark._
 import org.apache.spark.SparkContext._
